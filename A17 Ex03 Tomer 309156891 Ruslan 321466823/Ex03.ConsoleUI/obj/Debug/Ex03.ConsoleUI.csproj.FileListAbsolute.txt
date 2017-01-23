@@ -1,0 +1,14 @@
+C:\Users\Ruslan\Documents\Visual Studio 2015\Projects\A17 Ex03 Tomer 309156891 Ruslan 321466823\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+C:\Users\Ruslan\Documents\Visual Studio 2015\Projects\A17 Ex03 Tomer 309156891 Ruslan 321466823\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+C:\Users\Ruslan\Documents\Visual Studio 2015\Projects\A17 Ex03 Tomer 309156891 Ruslan 321466823\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\Ruslan\Documents\Visual Studio 2015\Projects\A17 Ex03 Tomer 309156891 Ruslan 321466823\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\Ruslan\Documents\Visual Studio 2015\Projects\A17 Ex03 Tomer 309156891 Ruslan 321466823\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\Ruslan\Documents\Visual Studio 2015\Projects\A17 Ex03 Tomer 309156891 Ruslan 321466823\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+C:\Users\Ruslan\Documents\Visual Studio 2015\Projects\A17 Ex03 Tomer 309156891 Ruslan 321466823\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb
+D:\Study\C-sharp\Ex_03\A17 Ex03 Tomer 309156891 Ruslan 321466823\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+D:\Study\C-sharp\Ex_03\A17 Ex03 Tomer 309156891 Ruslan 321466823\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb
+D:\Study\C-sharp\Ex_03\A17 Ex03 Tomer 309156891 Ruslan 321466823\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+D:\Study\C-sharp\Ex_03\A17 Ex03 Tomer 309156891 Ruslan 321466823\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+D:\Study\C-sharp\Ex_03\A17 Ex03 Tomer 309156891 Ruslan 321466823\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll
+D:\Study\C-sharp\Ex_03\A17 Ex03 Tomer 309156891 Ruslan 321466823\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.pdb
+D:\Study\C-sharp\Ex_03\A17 Ex03 Tomer 309156891 Ruslan 321466823\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csprojResolveAssemblyReference.cache
